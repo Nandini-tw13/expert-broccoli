@@ -35,6 +35,8 @@ port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
 
 This is just a trial to check if edit works
 
+[Link to random page](topics/random.md)
+
 this is to test if push works!!!!
 -------
 Author: {{ page.author}}
