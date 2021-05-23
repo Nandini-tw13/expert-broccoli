@@ -1,6 +1,6 @@
 ---
 Author: Antoine Saint
-Created Date: 23 May 2021
+Created_Date: 23 May 2021
 ---
 
 # Import a HTML file and watch it magically convert to Markdown
@@ -39,7 +39,7 @@ This is just a trial to check if edit works
 
 this is to test if push works!!!!
 -------
-Author: {{ page.author}}
-Page Created On: {{Created Date}}
+Author: {{page.Author}}
+Page Created On: {{page.Created_Date}}
 -------
 
