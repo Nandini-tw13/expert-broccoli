@@ -1,5 +1,9 @@
 
-[Link to random page](topics/random.md)
+---
+author: Antoine Saint
+created_Date: 23 May 2021
+---
+
 # Import a HTML file and watch it magically convert to Markdown
 
 Drag and drop images (requires your Dropbox account be linked)
@@ -19,20 +23,7 @@ Now climate scientists have concluded that we must limit global warming to 1.5 d
 Q: What causes global warming?
 A: Global warming occurs when carbon dioxide (CO2) and other air pollutants collect in the atmosphere and absorb sunlight and solar radiation that have bounced off the earth’s surface. Normally this radiation would escape into space, but these pollutants, which can last for years to centuries in the atmosphere, trap the heat and cause the planet to get hotter. These heat-trapping pollutants—specifically carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases—are known as
 
-
-# Sample Index File
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-
-This is just a trial to check if edit works
-
-[Link to random page](topics/random.md)
-
-this is to test if push works!!!!
-
+-------
+Author: {{ page.author}}
+Page Created On: {{created_Date}}
+-------
