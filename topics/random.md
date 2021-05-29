@@ -2,7 +2,8 @@
 author: Antoine Saint
 created_Date: 23 May 2021
 ---
-{% samplefileinclude.txt %}
+
+{% include samplefileinclude.txt %}
 
 # Import a HTML file and watch it magically convert to Markdown
 
