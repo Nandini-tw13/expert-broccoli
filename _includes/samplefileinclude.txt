@@ -1,0 +1,8 @@
+&lt;html&gt;
+&lt;head&gt;
+
+<p> this is a trial for includes file</p>
+
+
+&lt;/head&gt;
+&lt;/html&gt;

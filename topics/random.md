@@ -1,4 +1,3 @@
-
 ---
 author: Antoine Saint
 created_Date: 23 May 2021
@@ -19,6 +18,7 @@ The result? A planet that has never been hotter. Nine of the 10 warmest years si
 
 Now climate scientists have concluded that we must limit global warming to 1.5 degrees Celsius by 2040 if we are to avoid a future in which everyday life around the world is marked by its worst, most devastating effects: the extreme droughts, wildfires, floods, tropical storms, and other disasters that we refer to collectively as climate change. These effects are felt by all people in one way or another but are experienced most acutely by the underprivileged, the economically marginalized, and people of color, for whom climate change is often a key driver of poverty, displacement, hunger, and social unrest.
 
+** Hey {{site.name}}
 
 Q: What causes global warming?
 A: Global warming occurs when carbon dioxide (CO2) and other air pollutants collect in the atmosphere and absorb sunlight and solar radiation that have bounced off the earth’s surface. Normally this radiation would escape into space, but these pollutants, which can last for years to centuries in the atmosphere, trap the heat and cause the planet to get hotter. These heat-trapping pollutants—specifically carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases—are known as
