@@ -19,11 +19,12 @@ p
 	color:green;
 	font-weight: normal;
 	font-family: "Arial", sans-serif;
+	margin-right: 10px;
 	padding-bottom: 10 px;
     padding-right: 10 px;
 	padding-top: 10 px;
 	font-size: 12pt;
-	line-height: 1;
+	line-height: 1.4;
 }
 h2
 {
