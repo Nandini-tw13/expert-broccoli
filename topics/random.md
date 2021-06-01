@@ -5,7 +5,11 @@ created_Date: 23 May 2021
 
 {% include Footer_Content.txt %}
 
+#### Would You Like to Have a Look at Other Pages?
+
 [Link to additional page](content_extended.md)
+
+[Link to additional page](content_extended2.md)
 
 # Import a HTML file and watch it magically convert to Markdown
 
@@ -21,11 +25,11 @@ Export documents as Markdown, HTML and PDF
 
 Before you start working with resources in your account, familiarize yourself with where you can manage your payment method and access your invoices.
 
-### Managing your payment method
+#### Managing your payment method
 - To manage your payment method for an account that's billed in USD currency, go to **Manage** > **Billing and usage**, and select **Payments**.
 - To manage your payment method for an account that's billed in non-USD currency, go to [IBM Billing](https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser&Target=https%3A%2F%2Flogin.ibm.com%2Foidc%2Fendpoint%2Fdefault%2Fauthorize%3FqsId%3D43033be1-d498-4633-bd31-babd52037543%26client_id%3DMyIBMDallasProdCI).
 
-### Accessing your invoices
+#### Accessing your invoices
 - To access an invoice for an account that's billed in USD currency, go to **Manage** > **Billing and usage**, and select **Invoices**.
 - To access an invoice for an account that's billed in non-USD currency, go to **Manage** > **Billing and usage**, and select **Invoices**. Then, click **IBM Invoices**.
 
