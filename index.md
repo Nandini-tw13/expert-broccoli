@@ -27,7 +27,7 @@ port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
 
 This is just a trial to check if edit works
 
-#### Would You Like To Have a Look at Other Pages?
+#### Would You Like to Have a Look at Other Pages?
 
 [Link to random page](topics/random.md)
 
