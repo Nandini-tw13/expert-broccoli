@@ -5,7 +5,7 @@ created_Date: 23 May 2021
 
 {% include Footer_Content.txt %}
 
-[Link to additional page](/content_extended.md)
+[Link to additional page](content_extended.md)
 
 # Import a HTML file and watch it magically convert to Markdown
 
