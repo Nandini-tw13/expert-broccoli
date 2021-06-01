@@ -9,3 +9,8 @@ Now climate scientists have concluded that we must limit global warming to 1.5 d
 ## Q: What causes global warming?
 
 A: Global warming occurs when carbon dioxide (CO2) and other air pollutants collect in the atmosphere and absorb sunlight and solar radiation that have bounced off the earth’s surface. Normally this radiation would escape into space, but these pollutants, which can last for years to centuries in the atmosphere, trap the heat and cause the planet to get hotter. These heat-trapping pollutants—specifically carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases—are known as
+
+
+### India Map in Globe
+
+![Birds Eye View of India in Globe](https://www.mapsofworld.com/india/maps/india-location-map.jpg?v=1)
