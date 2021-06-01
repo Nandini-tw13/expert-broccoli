@@ -23,13 +23,6 @@ A: Global warming occurs when carbon dioxide (CO2) and other air pollutants coll
 
 [Link to additional page - India in Asia](content_extended2.md)
 
-## List of Passengers - Name and Age in Tabular Format
-
-{% for item in site.data.titanic %}
-| Name | Age |
-| --- | --- |
-|{{item.name}} | {{item.age}} |
-{% endfor %}
 
 ## List of Passengers - Name and Age
 
