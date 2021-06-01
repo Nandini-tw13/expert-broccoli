@@ -26,7 +26,7 @@ A: Global warming occurs when carbon dioxide (CO2) and other air pollutants coll
 ## List of Passengers - Name and Age
 
 {% for item in site.data.titanic %}
-- {{item.Name}}, {{item.Age}}
+- {{item.name}}, {{item.age}}
 {% endfor %}
 
 
