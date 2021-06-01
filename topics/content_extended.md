@@ -15,6 +15,6 @@ A: Global warming occurs when carbon dioxide (CO2) and other air pollutants coll
 
 ![Birds Eye View of India in Globe][https://www.mapsofworld.com/india/maps/india-location-map.jpg?v=1]
 
-###Another Image for Reference
+### Another Image for Reference
 
-![sample image] (./../_includes/image_new.png)
+![see this](./../topics/image_new.png "sample image")
