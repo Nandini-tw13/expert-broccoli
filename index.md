@@ -2,7 +2,7 @@
 [Link to random page](topics/random.md)
 
 
-##Solar System
+## Solar System
 
 ![Solar System](https://cdn.mos.cms.futurecdn.net/VL7nBnqLZMhQt5VkPzzJVF-1200-80.jpg)
 
