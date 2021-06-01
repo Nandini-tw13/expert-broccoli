@@ -5,8 +5,6 @@ created_Date: 23 May 2021
 
 {% include Footer_Content.txt %}
 
-[Link to additional page](topics/content_extended.md)
-
 # Import a HTML file and watch it magically convert to Markdown
 
 Drag and drop images (requires your Dropbox account be linked)
