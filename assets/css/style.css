@@ -19,7 +19,10 @@ p
 	color:green;
 	font-weight: normal;
 	font-family: "Arial", sans-serif;
-	font-size: 14pt;
+	padding-bottom: 10 px;
+    padding-right: 10 px;
+	padding-top: 10 px;
+	font-size: 12pt;
 }
 h2
 {
@@ -75,9 +78,9 @@ h5
 	margin-bottom: 0.5em;
 	margin-right: -1em;
 	margin-top: 0;
-	padding-bottom: 0.625em;
-    padding-right: 1em;
-	padding-top: 0.625em;
+	padding-bottom: 10 px;
+    padding-right: 10 px;
+	padding-top: 10 px;
 	width: 100%;
 	font-size: 14pt;
 	font-family: "Arial", sans-serif;
@@ -89,13 +92,19 @@ ol
 	color: green;
 	font-family: "Arial", sans-serif;
 	font-weight: normal;
-	font-size: 14pt;
+	padding-bottom: 0.625em;
+    padding-right: 1em;
+	padding-top: 0.625em;
+	font-size: 12pt;
 }
 ul
 {
 	color: green;
 	font-family: "Arial", sans-serif;
 	font-weight: normal;
-	font-size: 14pt;
+	padding-bottom: 10 px;
+    padding-right: 10 px;
+	padding-top: 10 px;
+	font-size: 12pt;
 }
 
