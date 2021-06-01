@@ -50,6 +50,7 @@ Complete the following steps:
 3. Specify the email address of the user. If you are inviting more than one user, they are all assigned the same access.
 4. Add the user to one or more of the access groups that you created in the previous step.
 5. Click **Invite**.
+
 -------
 Author: {{ page.author}}
 Page Created On: {{created_Date}}
