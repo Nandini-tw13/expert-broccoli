@@ -11,10 +11,14 @@ Now climate scientists have concluded that we must limit global warming to 1.5 d
 A: Global warming occurs when carbon dioxide (CO2) and other air pollutants collect in the atmosphere and absorb sunlight and solar radiation that have bounced off the earth’s surface. Normally this radiation would escape into space, but these pollutants, which can last for years to centuries in the atmosphere, trap the heat and cause the planet to get hotter. These heat-trapping pollutants—specifically carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases—are known as
 
 
-### India Map in Globe
+### View of Climate Change and Global Warming
 
-![Birds Eye View of India in Globe](https://www.lzbearfacts.com/wp-content/uploads/2018/12/IMG_7348.jpg)
+![Birds Eye View of Global Warming](https://d3n8a8pro7vhmx.cloudfront.net/factnet/pages/4841/meta_images/original/10-climate-effects-EPA-2.png?1594927371)
 
-### Another Image for Reference
+### Another Sample Image for Reference
 
 ![see this](./../topics/image_new.png "sample image")
+
+### This Section is to Show the Link
+
+[Link to additional page - India in Asia](content_extended2.md)

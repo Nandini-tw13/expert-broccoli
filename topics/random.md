@@ -7,9 +7,9 @@ created_Date: 23 May 2021
 
 #### Would You Like to Have a Look at Other Pages?
 
-[Link to additional page](content_extended.md)
+[Link to additional page - Global Warming](content_extended.md)
 
-[Link to additional page](content_extended2.md)
+[Link to additional page - India in Asia](content_extended2.md)
 
 # Import a HTML file and watch it magically convert to Markdown
 
