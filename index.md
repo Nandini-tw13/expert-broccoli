@@ -28,7 +28,7 @@ port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
 This is just a trial to check if edit works
 
 [Link to random page](topics/random.md)
-[Link to random page](topics/content_extended.md)
+[Link to page 2](topics/content_extended.md)
 
 this is to test if push works!!!!
 
