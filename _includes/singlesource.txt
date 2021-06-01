@@ -1,7 +1,0 @@
-<html>
-<head>
-
-<p> this is a trial for includes file footer</p>
-
-</head>
-</html>
